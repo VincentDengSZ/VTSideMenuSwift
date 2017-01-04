@@ -4,6 +4,12 @@ A simple Swift sideMenu lib for iOS
 # GIF
 ![](https://github.com/VincentDengSZ/VTSideMenuSwift/raw/master/VTSideMenuSwift.gif)
 
+#Requirements
+
+iOS 8.0+
+
+Swift 3.0+
+
 #Getting Started
 
 **Using [CocoaPods](http://cocoapods.org)**
