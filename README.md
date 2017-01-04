@@ -19,7 +19,7 @@ pod 'VTSideMenu', '~> 1.0.0'
 
 2.Add the files to your Xcode project.
 
-3.you don't need import any file if you use the api with Swift
+3.you don't need to import any file if you use the api with Swift
 #Example Usage
 
 **Example location**
@@ -28,12 +28,32 @@ Check out the [example project](https://github.com/VincentDengSZ/VTSideMenuSwift
 
 **Usage**
 
-The way to create a SideMenu is:
+The way to create a SideMenu:
 
 
 ```Swift
+
 VTSideMenuManager.initSideMenu(sideMenu: SideMenuViewController(), width: 250)
+
 ```
+
+The way to make side menu slide out:
+
+
+```Swift
+
+ self.sideMenuSlideOut()// called by a UIViewController instance 
+
+```
+The way to make side menu slide int:
+
+
+```Swift
+
+self.sideMenuSlideIn() // called by a UIViewController instance 
+
+```
+
 #License
 MIT
 
