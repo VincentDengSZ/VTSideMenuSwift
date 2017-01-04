@@ -1,5 +1,9 @@
 # VTSideMenu
 A simple SWift sideMenu lib for iOS
+
+# GIF
+![](https://github.com/VincentDengSZ/VTSideMenuSwift/raw/master/VTSideMenuSwift.gif)
+
 #Getting Started
 
 **Using [CocoaPods](http://cocoapods.org)**
