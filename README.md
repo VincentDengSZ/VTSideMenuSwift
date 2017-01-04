@@ -1,5 +1,5 @@
 # VTSideMenu
-A simple SWift sideMenu lib for iOS
+A simple Swift sideMenu lib for iOS
 
 # GIF
 ![](https://github.com/VincentDengSZ/VTSideMenuSwift/raw/master/VTSideMenuSwift.gif)
