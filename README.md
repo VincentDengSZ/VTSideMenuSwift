@@ -18,12 +18,12 @@ pod 'VTSideMenu', '~> 1.0.0'
 
 **Manually from GitHub**
 
-1.Download the `UIViewController+SideMenu.h` , `UIViewController+SideMenu.m` ,`VTSideMenuManager.h` , `VTSideMenuManager.m` files in th [Source directory](https://github.com/VincentDengSZ/VTSideMenu)  
+1.Download the `UIViewControllerSideMenu.swift` , `VTSideMenuManager.swift` files in th [Source directory](https://github.com/VincentDengSZ/VTSideMenuSwift)  
 
 
 2.Add the files to your Xcode project.
 
-3.you don't need to import any file if you use the api with Swift
+3.you don't need to import any file if you use the api Manually with Swift
 #Example Usage
 
 **Example location**
