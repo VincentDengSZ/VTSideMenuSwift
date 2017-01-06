@@ -1,4 +1,4 @@
-# VTSideMenu
+# VTSideMenuSwift
 A simple Swift sideMenu lib for iOS
 
 # GIF
@@ -16,7 +16,7 @@ Swift 3.0+
 
 1.Add the pod `VTSideMenu` to your [Podfile](http://guides.cocoapods.org/using/the-podfile.html).
 ```ruby
-pod 'VTSideMenu', '~> 1.0.0'
+pod 'VTSideMenuSwift', '~> 1.0.0'
 ```
 2.Run `pod install` from Terminal, then open your app's `.xcworkspace` file to launch Xcode.
 
