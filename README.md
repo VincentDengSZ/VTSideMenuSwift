@@ -43,7 +43,8 @@ The way to create a SideMenu:
 
 ```Swift
 
-VTSideMenuManager.initSideMenu(sideMenu: SideMenuViewController(), width: 250)
+VTSideMenuManager.initSideMenu(sideMenu: SideMenuViewController(nibName: "SideMenuViewController", bundle: nil), width: 250)
+
 
 ```
 

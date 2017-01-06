@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        VTSideMenuManager.initSideMenu(sideMenu: SideMenuViewController(), width: 250)
+        VTSideMenuManager.initSideMenu(sideMenu: SideMenuViewController(nibName: "SideMenuViewController", bundle: nil), width: 250)
 
     }
 
